@@ -1,4 +1,4 @@
-# Task Manager With Secure User Authentication
+# Task Manager
 
 This is a Node.js & MySQL-based Task Manager that allows users to securely register, log in, and manage their personal tasks. Each user has their own account, and tasks are linked to their profile using a foreign key relationship in the database.
 
